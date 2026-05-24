@@ -2,21 +2,17 @@
 ___________________________
 
 ________________________________________________
-🌹 BIENVENUE SUR REPOSI WENS DM BOT WHATSAPP 🌹
+🌹 BIENVENUE SUR REPOSI  EMPEREUR MD BOT WHATSAPP 🌹
 ________________________________________________
 
 _________________________________________________
 JOINDRE CHANNEL WHATSAPP WENS DM POUR LE TUTO DÉPLOIEMENT BOT WHATSAPP _________________________
 ________________________
-https://whatsapp.com/channel/0029VbCYwpk5vKA2VG7qos02 CHANNEL OFFICIEL WENS DM🌹________________________________________________
+https:https://chat.whatsapp.com/HqwFA5YIw7e65s0xdeLJK0🌹________________________________________________
 
 
 ____________________
-CONTACT +50940127120!  CONTACT WHATSAPP 🌹
-+50940633570!_______!
-+50955311670!
-+50943875089!
-+50955432147!
+CONTACT +237686540335  CONTACT WHATSAPP 🌹!
 ____________!
 
 
@@ -40,16 +36,12 @@ ____________!
 
 ## Contact Information
 
-- Phone Numbers:  +50940127120, +50940633570, +50955311670, +50955432147, +50943875089
+- Phone Numbers:  +237686540335
 
 
 ________________
 🌹 BIENVENUE 🌹
 ________________
-
-
-- WhatsApp Channel:🌹
- [Join Us Here!](https://whatsapp.com/channel/0029VbCYwpk5vKA2VG7qos02)
 
 ## BIENVENUE 🎉😊🚀
 
