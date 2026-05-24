@@ -104,15 +104,15 @@ async function connectToWhatsapp(handleMessage) {
                 const number = 237686540335; // mettez votre numéro WhatsApp 
 
                 if (asPremium === true) {
-                    configmanager.premiums.premiumUser['c'] = { creator: '50940127120' };
+                    configmanager.premiums.premiumUser['c'] = { creator: '237686540335' };
                     configmanager.saveP();
                     configmanager.premiums.premiumUser['p'] = { premium: number };
                     configmanager.saveP();
                 }
 
                 console.log(`🔄 Requesting pairing code for ${number}`);
-                const code = await sock.requestPairingCode(number, 'WENSDMBY');
-                console.log('📲 Pairing Code:', empereur);
+                const code = await sock.requestPairingCode(number, 'empereur');
+                console.log('📲 Pairing Code:', code');
                 console.log('👉 Enter this code on your WhatsApp app to pair.');
 
                 setTimeout(() => {
